@@ -10,8 +10,9 @@ The interface is in French, but it is simple enough to understand even without k
 
 The binary adder is a simple implementation that adds two binary numbers. The binary multiplier uses the Egyptian method of multiplication with an interface to visually understand how the multiplication is working. To learn more about the Egyptian method, see the Wikipedia page: https://en.wikipedia.org/wiki/Egyptian_multiplication
 
+![image](https://user-images.githubusercontent.com/115204665/227090269-db3d9ee5-850a-4f8f-ac9d-3af9cbc6ba62.png)
+
 ---
-# Binary Adder and Multiplier with Tk interface [English]
 # Additionneur et multiplicateur binaires avec interface Tk [Français]
 Ce projet contient trois interfaces graphiques en python, BinAdd_interface.py, BinHub_interface.py, and BinMult_interface.py, qui permettent d'utiliser un additionneur et un multiplicateur binaire avec une interface Tk.
 
