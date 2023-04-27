@@ -1,8 +1,6 @@
 # Binary Adder and Multiplier with Tk interface [English]
 This project contains three Python graphical interfaces, BinAdd_interface.py, BinHub_interface.py, and BinMult_interface.py, which allow the use of a binary adder and multiplier with a Tk interface.
 
-This project was created by @smoll24. If you have any questions or comments, feel free to contact me.
-
 ### Usage
 To use this project, download the files BinAdd_interface.py, BinHub_interface.py, and BinMult_interface.py and make sure they are all in the same folder. Then, open BinHub_interface.py for ease of use, or simply open the file you wish to use.
 
@@ -15,8 +13,6 @@ The binary adder is a simple implementation that adds two binary numbers. The bi
 ---
 # Additionneur et multiplicateur binaires avec interface Tk [Français]
 Ce projet contient trois interfaces graphiques en python, BinAdd_interface.py, BinHub_interface.py, and BinMult_interface.py, qui permettent d'utiliser un additionneur et un multiplicateur binaire avec une interface Tk.
-
-Ce projet a été créé par @smoll24. Si vous avez des questions ou des commentaires, n'hésitez pas à me contacter.
 
 ### Utilisation
 Pour utiliser ce projet, téléchargez les fichiers BinAdd_interface.py, BinHub_interface.py et BinMult_interface.py et assurez-vous qu'ils sont tous dans le même dossier. Ensuite, ouvrez BinHub_interface.py pour une utilisation simplifiée, ou ouvrez simplement l'un des fichiers que vous souhaitez utiliser.
